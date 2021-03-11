@@ -1,0 +1,13 @@
+C:\Users\Пользователь\source\repos\ScreenDiscord\obj\Debug\ScreenDiscord.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ScreenDiscord\obj\Debug\ScreenDiscord.Form1.resources
+C:\Users\Пользователь\source\repos\ScreenDiscord\obj\Debug\ScreenDiscord.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\ScreenDiscord\obj\Debug\ScreenDiscord.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\ScreenDiscord\obj\Debug\ScreenDiscord.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ScreenDiscord\bin\Debug\ScreenDiscord.exe.config
+C:\Users\Пользователь\source\repos\ScreenDiscord\bin\Debug\ScreenDiscord.exe
+C:\Users\Пользователь\source\repos\ScreenDiscord\bin\Debug\ScreenDiscord.pdb
+C:\Users\Пользователь\source\repos\ScreenDiscord\obj\Debug\ScreenDiscord.exe
+C:\Users\Пользователь\source\repos\ScreenDiscord\obj\Debug\ScreenDiscord.pdb
+C:\Users\Пользователь\source\repos\ScreenDiscord\bin\Debug\InputBox.dll
+C:\Users\Пользователь\source\repos\ScreenDiscord\bin\Debug\InputBox.pdb
+C:\Users\Пользователь\source\repos\ScreenDiscord\obj\Debug\ScreenDiscord.csproj.CopyComplete
